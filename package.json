@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Count the frequency of each byte in a buffer",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "tape": "^4.6.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "node test.js"
   },
