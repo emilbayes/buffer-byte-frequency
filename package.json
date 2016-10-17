@@ -1,0 +1,31 @@
+{
+  "name": "buffer-byte-frequency",
+  "version": "1.0.0",
+  "description": "Count the frequency of each byte in a buffer",
+  "main": "index.js",
+  "dependencies": {
+    "tape": "^4.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilbayes/buffer-byte-frequency.git"
+  },
+  "keywords": [
+    "buffer",
+    "byte",
+    "frequency",
+    "freq",
+    "octet",
+    "count"
+  ],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilbayes/buffer-byte-frequency/issues"
+  },
+  "homepage": "https://github.com/emilbayes/buffer-byte-frequency#readme"
+}
