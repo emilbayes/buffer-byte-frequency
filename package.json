@@ -1,6 +1,6 @@
 {
   "name": "buffer-byte-frequency",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Count the frequency of each byte in a buffer",
   "main": "index.js",
   "dependencies": {},
